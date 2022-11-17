@@ -13,4 +13,14 @@
 
 <img src="https://user-images.githubusercontent.com/40872405/202535517-223b67c5-0aa7-44ed-b446-b1650f8d6eca.png" width="400" height="300" />
 
-<p> um pouco de programção estruturada em COBOL com seção de "working-storage"(variaveis em memoria), "main-procedure"(função main), "display" para printar em terminal, "accept" para aceitar input do usuario, "evaluate" para abrir uma estrutura de repetição when e "end-evaluate" para fechar ela. e por fim "compute" que é usada para mostrar ao compilador que a função vai fazer uma operação matemática   </p>
+### Bom vou deixar abaixo o que eu aprendi sobre um pouco de programação estruturada em COBOL para conseguir realizar a calculadora usei esses métodos.
+
+
+- [working-storage] - Lugar para armazenar o espaço em memoria 
+- [main-procedure] - Função principal do programa
+- [display] - basicamente é o "Print" do COBOL
+- [accept] - seria o Input do COBOL
+- [evaluate/end-evaluate] - é usado para abrir e fechar uma estrutura de repetição sem ser IF
+- [compute] - é para mostrar ao compilador que aquela parte de codigo tem uma operação matematica 
+
+####### CUIDADO!! alguma coisa eu posso estar completamente errado, vou dar uma pesquisada e talvez commita esse readme novamente.
